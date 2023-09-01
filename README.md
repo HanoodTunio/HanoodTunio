@@ -1,6 +1,6 @@
 <div style="display: flex; flex-direction: column;">
     <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-    <img src="https://github.com/HanoodTunio/HanoodTunio/blob/main/Neutral%20Modern%20Web%20Developer%20LinkedIn%20Banner%20(1).png" width="100%" />
+   <!-- <img src="https://github.com/HanoodTunio/HanoodTunio/blob/main/Neutral%20Modern%20Web%20Developer%20LinkedIn%20Banner%20(1).png" width="100%" />-->
 </div>
 
 
