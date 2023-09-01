@@ -11,7 +11,7 @@
  
 
 
-<h3 align="center">A passionate developer from Pakistan</h3>
+<h3 align="center">A passionate Software Developer from Pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HanoodTunio&label=Profile%20views&color=0e75b6&style=flat" alt="HanoodTunio" /> </p>
 
 
@@ -23,12 +23,8 @@
 - ⚡ Fun fact : I'm a night owl coder 🦉. Some of my best code comes to life in the late hours!
 
 
-<br>
 
-<div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/hanood-tunio-6335a31ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/HanoodTunio" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/https://www.instagram.com/hanood_tunio/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:hanood.tunio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
     <br>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -71,14 +67,23 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/HanoodTunio">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HanoodTunio&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HanoodTunio&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HanoodTunio&theme=chartreuse_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HanoodTunio&theme=chartreuse_dark" height="180em" />
     <br>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HanoodTunio&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HanoodTunio&theme=2077" height="180em" />    
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HanoodTunio&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HanoodTunio&theme=chartreuse_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HanoodTunio&theme=highcontrast" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HanoodTunio&theme=highcontrast" height="180em" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=HanoodTunio&theme=high-contrast"/>
+<!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>-->
+<!--<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=HanoodTunio&theme=high-contrast"/>-->
+<!--<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=HanoodTunio&theme=high-contrast"/>-->
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<div align="center">
+    <h2>🚀 My Profile Section Ends Here 🚀</h2>
+    <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
+</div>
+
+
+
+
+
